@@ -21,8 +21,8 @@
 根据企业安全能力建设的需求，根据需求分类，如WAF、HIDS、Git监控等。
 
 - **资产管理**
-  - [insight：洞察-宜信集应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的平台。](https://github.com/creditease-sec/insight)
-  - [xunfeng：一款适用于企业内网的漏洞快速应急，巡航扫描系统。](https://github.com/ysrc/xunfeng)
+  - [insight](https://github.com/creditease-sec/insight)：洞察-宜信集应用系统资产管理、漏洞全生命周期管理、安全知识库管理三位一体的平台
+  - [xunfeng](https://github.com/ysrc/xunfeng)：一款适用于企业内网的漏洞快速应急，巡航扫描系统
 
 - **安全开发**
   - [JAVA安全SDK及编码规范](https://github.com/momosecurity/rhizobia_J)
@@ -50,7 +50,6 @@
   - [Sobek-Hids：一个基于python的Host IDS系统](http://www.codeforge.cn/article/331327)
 
 - **网络流量分析**
-
   - [Zeek：一个功能强大的网络分析框架](https://www.zeek.org)
 
   - [Kismet：一种无线网络和设备检测器，嗅探器，驱动工具和WIDS（无线入侵检测）框架](https://www.kismetwireless.net/)
@@ -59,7 +58,7 @@
   - [OpenDLP：一个免费的，开源的，基于代理和无代理的，集中管理，可大规模分发的数据丢失防护工具](https://code.google.com/archive/p/opendlp/)
 
 - **蜜罐技术**
-  - [T-Pot：多蜜罐平台，可视化分析](https://github.com/dtag-dev-sec/tpotce/)`
+  - [T-Pot：多蜜罐平台，可视化分析](https://github.com/dtag-dev-sec/tpotce/)
 
   - [opencanary_web：蜜罐的网络管理平台](https://github.com/p1r06u3/opencanary_web)
 
@@ -79,7 +78,7 @@
 
   - [SIEMonster：以很小的成本监控整个网络](https://siemonster.com/)
 
-  - [SeMF：企业内网安全管理平台，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化功能模块，可用于企业内部的安全管理](https://gitee.com/gy071089/SecurityManageFramwork)`
+  - [SeMF：企业内网安全管理平台，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化功能模块，可用于企业内部的安全管理](https://gitee.com/gy071089/SecurityManageFramwork)
 
   - [Prelude：一个结合了其他各种开源工具的SIEM框架](https://www.prelude-siem.org/)
 
