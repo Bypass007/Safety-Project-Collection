@@ -4,19 +4,19 @@
 
 这些开源项目，每一个都在致力于解决一些安全问题。
 
-项目收集的思路：
+**项目收集的思路：**
 
 一个是关注互联网企业/团队的安全开源项目，经企业内部实践，这些最佳实践值得借鉴。
 
 一个是来自企业安全能力建设的需求，根据需求分类，如WAF、HIDS、Git监控等。
 
-其实，还有很多很好的免费开源项目可供选择，下面列出的还只是其中很少的一部分，后续将持续更新。
+这个收集是一个长期的过程，我在GitHub创建了这个项目，专门用来收集一些优秀的甲方安全项目。还有很多很好的免费开源项目可供选择，下面列出的还只是其中很少的一部分，我将持续更新这个项目，欢迎Star。
 
 ### 项目内容
 
 互联网企业/团队，如YSRC、宜信CESRC、陌陌MomoSecurity、VKSRC等。
 
-根据企业安全能力建设的需求，根据需求分类，如WAF、HIDS、Git监控等。
+根据企业安全能力建设的需求，大致可以分为如下几种类型：
 
 **资产管理**
 
@@ -119,13 +119,10 @@
 **GitHub监控**
 
 - [GSIL](https://github.com/FeeiCN/GSIL)：GitHub敏感信息泄漏工具。
-
 - [Hawkeye](https://github.com/0xbug/Hawkeye)：监控github代码库，及时发现员工托管公司代码到GitHub行为并预警，降低代码泄露风险。
-
+- [Github leaked patrol](https://github.com/MiSecurity/x-patrol)：GitHub的泄露扫描系统--MiSecurity。
 - [Github-Monitor](https://github.com/VKSRC/Github-Monitor)：用于监控Github代码仓库的系统。
-
 - [gshark](https://github.com/neal1991/gshark)：轻松有效地扫描Github中的敏感信息。
-
 - [GitGuardian](https://www.gitguardian.com/)：实时扫描GitHub活动的解决方案。
 
 **蜜罐技术**
@@ -163,13 +160,16 @@
 
 **SIEM/SOC**
 - [OSSIM](https://www.alienvault.com/products/ossim)：开源安全信息管理系统，它是一个开源安全信息和事件的管理系统，集成了一系列的能够帮助管理员更好的进行计算机安全，入侵检测和预防的工具。
-
 - [Apache Metron](https://github.com/apache/metron)：一种网络安全应用程序框架，使组织能够检测网络异常并使组织能够快速响应已识别的异常情况。
-
 - [SIEMonster](https://siemonster.com/)：以很小的成本监控整个网络。
-
 - [SeMF](https://gitee.com/gy071089/SecurityManageFramwork)：企业内网安全管理平台，包含资产管理，漏洞管理，账号管理，知识库管、安全扫描自动化功能模块，可用于企业内部的安全管理。
-
 - [Prelude](https://www.prelude-siem.org/)：一个结合了其他各种开源工具的SIEM框架。
-
 - [MozDef](https://github.com/jeffbryner/MozDef)：Mozilla防御平台,一套实时集成化平台，能够实现监控、反应、协作并改进相关保护功能。
+
+------
+
+### 学习交流
+
+专注于网络安全，欢迎关注个人微信公众号：Bypass--，每周原创一篇技术干货。
+
+![](https://bypass007.github.io/Emergency-Response-Notes/Summary/image/sum-erweima.jpg)
