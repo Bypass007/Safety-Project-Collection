@@ -28,7 +28,7 @@
 
 - [Ansible](https://www.ansible.com/)：一种集成 IT 系统的配置管理、应用部署、执行特定任务的开源平台。
 
-- [Saltstack](<https://docs.saltstack.com/en/latest/)：一个具备puppet与func功能为一身的集中化管理平台。
+- [Saltstack](https://docs.saltstack.com/en/latest/)：一个具备puppet与func功能为一身的集中化管理平台。
 
 **漏洞管理**
 
