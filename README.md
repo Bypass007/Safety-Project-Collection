@@ -168,6 +168,8 @@
 
 **钓鱼网站系统**
 
+- [HFish](https://github.com/hacklcx/HFish):一款基于 Golang 开发的跨平台多功能主动诱导型蜜罐框架系统。
+
 - [mail_fishing](https://github.com/SecurityPaper/mail_fishing)： 基于thinkphp写的一个内部钓鱼网站系统。
 
 - [Gophish](https://github.com/gophish/gophish)：开源钓鱼工具包。
