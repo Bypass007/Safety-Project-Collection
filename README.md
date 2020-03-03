@@ -68,6 +68,8 @@
 
 - [Find Security Bugs](https://find-sec-bugs.github.io/)：用于Java Web应用程序的安全审计。
 
+- [Hades](https://github.com/zsdlove/Hades)：静态代码脆弱性检测系统
+
 **WAF**
 
 - [ngx_lua_waf](https://github.com/loveshell/ngx_lua_waf)：一个基于LUA-nginx的模块（openresty）的网络应用防火墙。
