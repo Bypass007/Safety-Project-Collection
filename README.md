@@ -210,6 +210,8 @@
 
 - [T-Pot](https://github.com/dtag-dev-sec/tpotce/)：多蜜罐平台，可视化分析。
 
+- [HFish](https://github.com/hacklcx/HFish)：一种基于Golang开发的跨平台多功能主动诱导型蜜罐框架系统。
+
 - [opencanary_web](https://github.com/p1r06u3/opencanary_web)：蜜罐的网络管理平台。
 
 - [Honeyd](http://www.honeyd.org/)：一个小型守护进程，可以在网络上创建虚拟主机。
