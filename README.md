@@ -180,6 +180,11 @@
 
 - [phishing](https://github.com/p1r06u3/phishing):甲方网络钓鱼的安全实践。
 
+- [Phishing Frenzy](https://www.phishingfrenzy.com/):开源的钓鱼测试工具。
+
+- [King Phisher](https://github.com/rsmusllp/king-phisher/):一款专业的钓鱼活动工具包。
+
+
 **安全运维**
 
 - [Scout](https://github.com/HandsomeOne/Scout)： URL 监控系统。
