@@ -211,6 +211,8 @@
 
 - [GitGuardian](https://www.gitguardian.com/)：实时扫描GitHub活动的解决方案。
 
+- [code6](https://github.com/4x99/code6)：码小六 - GitHub 代码泄露监控系统。
+
 **蜜罐技术**
 
 - [T-Pot](https://github.com/dtag-dev-sec/tpotce/)：多蜜罐平台，可视化分析。
