@@ -257,6 +257,12 @@
 
 - [Drools](https://www.drools.org)：基于java的功能强大的开源规则引擎。
 
+- [Radar风控引擎](https://gitee.com/freshday/radar):轻量级实时风控引擎，适用于反欺诈应用场景，极简的配置，真正做到了开箱即用。
+
+- [RiskControl](https://github.com/sunpeak/riskcontrol):轻量级JAVA实时业务风控系统.
+
+- [Urule](https://github.com/youseries/urule/):一款纯Java规则引擎，可快速实现规则的定义、维护与发布。
+
 ------
 
 ### 学习交流
