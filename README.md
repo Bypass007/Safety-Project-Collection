@@ -48,9 +48,12 @@
 
 **安全开发**
 
+- [secguide](https://github.com/Tencent/secguide)：腾讯代码安全指南开源，涉及C/C++、JavaScript、Node、Go、Java、Python六门编程语言。
+
 - [rhizobia_J](https://github.com/momosecurity/rhizobia_J)：JAVA安全SDK及编码规范。
 
 - [rhizobia_P](https://github.com/momosecurity/rhizobia_P)：PHP安全SDK及编码规范。
+
 
 **自动化代码审计**
 
