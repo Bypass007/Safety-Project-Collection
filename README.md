@@ -131,6 +131,8 @@
 
 - [驭龙HIDS](https://github.com/ysrc/yulong-hids)：开源的主机入侵检测系统。
 
+- [whids](https://github.com/0xrawsec/whids):带有检测驱动的工件收集的EDR。
+
 - [AgentSmith-HIDS](https://github.com/DianrongSecurity/AgentSmith-HIDS)：轻量级的HIDS系统，低性能损失，使用LKM技术的HIDS工具。
 
 - [Sobek-Hids](http://www.codeforge.cn/article/331327)：一个基于python的HostIDS系统。
