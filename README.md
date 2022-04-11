@@ -73,13 +73,18 @@
 
 - [Hades](https://github.com/zsdlove/Hades)：静态代码脆弱性检测系统
 
-**IAST**
+**DevSecOps**
 
 - [火线~洞态IAST](https://hxsecurity.github.io/DongTaiDoc/)：一款专为甲方安全人员、代码审计工程师和0 Day漏洞挖掘人员量身打造的辅助工具，可用于集成devops环境进行漏洞检测、作为代码审计的辅助工具和自动化挖掘0 Day。
 
 - [openrasp-iast](https://rasp.baidu.com/doc/install/iast.html)：一款灰盒扫描工具，能够结合应用内部hook点信息精确的检测漏洞。
 
 - [Semmle QL](https://lgtm.com)：Semmle公司提供了一个免费的检测平台，可以分析用Java，Python，JavaScript，TypeScript，C＃，Go，C和C ++编写的项目。
+
+- [murphysec](https://github.com/murphysecurity/murphysec/)：墨菲安全专注于软件供应链安全，具备专业的软件成分分析（SCA）、漏洞检测、专业漏洞库。
+
+- [veinmind-tools](https://github.com/chaitin/veinmind-tools/)：基于veinmind-sdk打造的容器安全工具集。
+
 
 
 **WAF**
