@@ -75,7 +75,7 @@
 
 **DevSecOps**
 
-- [火线~洞态IAST](https://hxsecurity.github.io/DongTaiDoc/)：一款专为甲方安全人员、代码审计工程师和0 Day漏洞挖掘人员量身打造的辅助工具，可用于集成devops环境进行漏洞检测、作为代码审计的辅助工具和自动化挖掘0 Day。
+- [火线~洞态IAST](https://github.com/HXSecurity/DongTai/)：一款专为甲方安全人员、代码审计工程师和0 Day漏洞挖掘人员量身打造的辅助工具，可用于集成devops环境进行漏洞检测、作为代码审计的辅助工具和自动化挖掘0 Day。
 
 - [openrasp-iast](https://rasp.baidu.com/doc/install/iast.html)：一款灰盒扫描工具，能够结合应用内部hook点信息精确的检测漏洞。
 
