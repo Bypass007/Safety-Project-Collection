@@ -89,6 +89,8 @@
 
 **WAF**
 
+- [雷池](https://github.com/chaitin/safeline)：一款足够简单、足够好用、足够强的免费 WAF, 核心检测能力由智能语义分析算法驱动。
+
 - [ngx_lua_waf](https://github.com/loveshell/ngx_lua_waf)：一个基于LUA-nginx的模块（openresty）的网络应用防火墙。
 
 - [OpenRASP](https://rasp.baidu.com)：一款免费、开源的应用运行时自我保护产品。
